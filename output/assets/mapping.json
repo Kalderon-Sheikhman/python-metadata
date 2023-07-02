@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {"directory": "assets\\1. Background", "name": "Background", "rarity": 1.0, "group": "None"},
+    {"directory": "assets\\5. Hair Mapping", "name": "Hair Mapping", "rarity": 1.0, "group": "None"},
+    {"directory": "assets\\6. Bodz S1", "name": "Bodz S1", "rarity": 1.0, "group": "None"},
+    {"directory": "assets\\6. Bodz S2", "name": "Bodz S2", "rarity": 1.0, "group": "None"},
+    {"directory": "assets\\7. Chinz", "name": "Chinz", "rarity":  1.0, "group": "None"},
+    {"directory": "assets\\8. Cheekeyz", "name": "Cheekeyz", "rarity":  1.0, "group": "None"},
+    {"directory": "assets\\9. Headz", "name": "Headz", "rarity":  1.0, "group": "None"},  
+    {"directory": "assets\\10. Kissys", "name": "Kissys", "rarity":  1, "group": "None"},
+    {"directory": "assets\\10b. Chin Mapping", "name": "Chin Mapping", "rarity":  1.0, "group": "None"},
+    {"directory": "assets\\11. Smellyz", "name": "Smellyz", "rarity": 1.0, "group": "None"},
+    {"directory": "assets\\12. Seeing Ballz", "name": "Seeing Ballz", "rarity": 1.0, "group": "None"},
+    {"directory": "assets\\13. Browz", "name": "Browz", "rarity":  1.0, "group": "None"},
+    {"directory": "assets\\14. Hatz & Hairz", "name": "Hatz & Hairz", "rarity":  1, "group": "None"},
+    {"directory": "assets\\15. Bodz Mapping", "name": "Bodz Mapping", "rarity":  1, "group": "None"}
+  ],
+  "rarity": [
+    {"name": "COMMON", "rarity_factor": 0.8},
+    {"name": "UNCOMMON", "rarity_factor": 0.5},
+    {"name": "RARE", "rarity_factor": 0.2},
+    {"name": "VERY RARE", "rarity_factor": 0.1},
+    {"name": "LEGENDARY", "rarity_factor": 0.03}
+  ]
+}

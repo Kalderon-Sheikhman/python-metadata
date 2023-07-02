@@ -1,0 +1,22 @@
+{
+  "folders": [
+    {"directory": "assets\\1. Background", "name": "Background", "rarity": 1.0, "group": "None"},
+    {"directory": "assets\\5. Hair Mapping", "name": "Hair Mapping", "rarity": 1, "group": "None"},
+    {"directory": "assets\\6. Body", "name": "Body", "rarity": 1.0, "group": "None"},
+    {"directory": "assets\\7. Chin", "name": "Chin", "rarity":  0.8, "group": "None"},
+    {"directory": "assets\\8. Cheeks", "name": "Cheeks", "rarity":  1.0, "group": "None"},
+    {"directory": "assets\\9. Forehead", "name": "Forehead", "rarity":  1.0, "group": "None"},  
+    {"directory": "assets\\10. Mouth", "name": "Mouth", "rarity":  0.7, "group": "None"},
+    {"directory": "assets\\11. Nose", "name": "Nose", "rarity": 0.7, "group": "None"},
+    {"directory": "assets\\12. Eyes", "name": " Eyes", "rarity": 0.7, "group": "None"},
+    {"directory": "assets\\13. Eyebrows", "name": "Eyebrows", "rarity":  0.7, "group": "None"},
+    {"directory": "assets\\14. Hair", "name": "Hair", "rarity":  1, "group": "None"}
+  ],
+  "rarity": [
+    {"name": "COMMON", "rarity_factor": 0.8},
+    {"name": "UNCOMMON", "rarity_factor": 0.5},
+    {"name": "RARE", "rarity_factor": 0.2},
+    {"name": "VERY RARE", "rarity_factor": 0.1},
+    {"name": "LEGENDARY", "rarity_factor": 0.03}
+  ]
+}

@@ -1,0 +1,1010 @@
+[
+  {
+    "folder": "Background",
+    "rarity": 1.0,
+    "group": "None",
+    "files": [
+      {
+        "file_name": "Acid.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Background",
+        "path": "assets\\1. Background"
+      },
+      {
+        "file_name": "Bruise.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Background",
+        "path": "assets\\1. Background"
+      },
+      {
+        "file_name": "Dawn.png",
+        "rarity": "LEGENDARY",
+        "rarity_factor": 0.03,
+        "type": "Background",
+        "path": "assets\\1. Background"
+      },
+      {
+        "file_name": "Dribble.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Background",
+        "path": "assets\\1. Background"
+      },
+      {
+        "file_name": "Drool.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Background",
+        "path": "assets\\1. Background"
+      },
+      {
+        "file_name": "Dusk.png",
+        "rarity": "LEGENDARY",
+        "rarity_factor": 0.03,
+        "type": "Background",
+        "path": "assets\\1. Background"
+      },
+      {
+        "file_name": "Gore.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Background",
+        "path": "assets\\1. Background"
+      },
+      {
+        "file_name": "Ichor.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Background",
+        "path": "assets\\1. Background"
+      },
+      {
+        "file_name": "Juice.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Background",
+        "path": "assets\\1. Background"
+      },
+      {
+        "file_name": "Slime.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Background",
+        "path": "assets\\1. Background"
+      },
+      {
+        "file_name": "Sour.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Background",
+        "path": "assets\\1. Background"
+      },
+      {
+        "file_name": "Wine Stain.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Background",
+        "path": "assets\\1. Background"
+      }
+    ]
+  },
+  {
+    "folder": "Hair Mapping",
+    "rarity": 1.0,
+    "group": "None",
+    "files": [
+      {
+        "file_name": "Black Dudzfro afb.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hair Mapping",
+        "path": "assets\\5. Hair Mapping"
+      },
+      {
+        "file_name": "blank.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hair Mapping",
+        "path": "assets\\5. Hair Mapping"
+      },
+      {
+        "file_name": "Bubblegumz Dudzfro afm_VERY RARE.png",
+        "rarity": "VERY RARE",
+        "rarity_factor": 0.1,
+        "type": "Hair Mapping",
+        "path": "assets\\5. Hair Mapping"
+      },
+      {
+        "file_name": "Bucketz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hair Mapping",
+        "path": "assets\\5. Hair Mapping"
+      },
+      {
+        "file_name": "Captain Dudz_SUPER RARE.png",
+        "rarity": "VERY RARE",
+        "rarity_factor": 0.1,
+        "type": "Hair Mapping",
+        "path": "assets\\5. Hair Mapping"
+      },
+      {
+        "file_name": "Cheeze Noodlez.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hair Mapping",
+        "path": "assets\\5. Hair Mapping"
+      },
+      {
+        "file_name": "Cowdudz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hair Mapping",
+        "path": "assets\\5. Hair Mapping"
+      },
+      {
+        "file_name": "Flippy Capz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hair Mapping",
+        "path": "assets\\5. Hair Mapping"
+      },
+      {
+        "file_name": "Liquorice Stickz_RARE.png",
+        "rarity": "RARE",
+        "rarity_factor": 0.2,
+        "type": "Hair Mapping",
+        "path": "assets\\5. Hair Mapping"
+      },
+      {
+        "file_name": "Stylish Dooz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hair Mapping",
+        "path": "assets\\5. Hair Mapping"
+      }
+    ]
+  },
+  {
+    "folder": "Bodz S1",
+    "rarity": 1.0,
+    "group": "None",
+    "files": [
+      {
+        "file_name": "Blobz Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz S1",
+        "path": "assets\\6. Bodz S1"
+      },
+      {
+        "file_name": "Buff Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz S1",
+        "path": "assets\\6. Bodz S1"
+      },
+      {
+        "file_name": "Fit Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz S1",
+        "path": "assets\\6. Bodz S1"
+      },
+      {
+        "file_name": "Kitty Bodz_VERY RARE.png",
+        "rarity": "VERY RARE",
+        "rarity_factor": 0.1,
+        "type": "Bodz S1",
+        "path": "assets\\6. Bodz S1"
+      },
+      {
+        "file_name": "Moon Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz S1",
+        "path": "assets\\6. Bodz S1"
+      },
+      {
+        "file_name": "Plain Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz S1",
+        "path": "assets\\6. Bodz S1"
+      },
+      {
+        "file_name": "Skivvyz Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz S1",
+        "path": "assets\\6. Bodz S1"
+      }
+    ]
+  },
+  {
+    "folder": "Bodz S2",
+    "rarity": 1.0,
+    "group": "None",
+    "files": [
+      {
+        "file_name": "Blobz Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz S2",
+        "path": "assets\\6. Bodz S2"
+      },
+      {
+        "file_name": "Buff Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz S2",
+        "path": "assets\\6. Bodz S2"
+      },
+      {
+        "file_name": "Fit Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz S2",
+        "path": "assets\\6. Bodz S2"
+      },
+      {
+        "file_name": "Kitty Bodz_VERY RARE.png",
+        "rarity": "VERY RARE",
+        "rarity_factor": 0.1,
+        "type": "Bodz S2",
+        "path": "assets\\6. Bodz S2"
+      },
+      {
+        "file_name": "Moon Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz S2",
+        "path": "assets\\6. Bodz S2"
+      },
+      {
+        "file_name": "Plain Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz S2",
+        "path": "assets\\6. Bodz S2"
+      },
+      {
+        "file_name": "Skivvyz Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz S2",
+        "path": "assets\\6. Bodz S2"
+      }
+    ]
+  },
+  {
+    "folder": "Chinz",
+    "rarity": 1.0,
+    "group": "None",
+    "files": [
+      {
+        "file_name": "Buff Chins.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Chinz",
+        "path": "assets\\7. Chinz"
+      },
+      {
+        "file_name": "Butt Face lol.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Chinz",
+        "path": "assets\\7. Chinz"
+      },
+      {
+        "file_name": "Citruz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Chinz",
+        "path": "assets\\7. Chinz"
+      },
+      {
+        "file_name": "Freddy Face.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Chinz",
+        "path": "assets\\7. Chinz"
+      },
+      {
+        "file_name": "Giant Beardz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Chinz",
+        "path": "assets\\7. Chinz"
+      },
+      {
+        "file_name": "Goatz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Chinz",
+        "path": "assets\\7. Chinz"
+      },
+      {
+        "file_name": "Hoboz Santa.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Chinz",
+        "path": "assets\\7. Chinz"
+      },
+      {
+        "file_name": "Kitty Cat Meow.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Chinz",
+        "path": "assets\\7. Chinz"
+      },
+      {
+        "file_name": "Polka Dotz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Chinz",
+        "path": "assets\\7. Chinz"
+      },
+      {
+        "file_name": "Purpiez.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Chinz",
+        "path": "assets\\7. Chinz"
+      },
+      {
+        "file_name": "Stubz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Chinz",
+        "path": "assets\\7. Chinz"
+      },
+      {
+        "file_name": "Two Chinz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Chinz",
+        "path": "assets\\7. Chinz"
+      }
+    ]
+  },
+  {
+    "folder": "Cheekeyz",
+    "rarity": 1.0,
+    "group": "None",
+    "files": [
+      {
+        "file_name": "Big Blush.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Cheekeyz",
+        "path": "assets\\8. Cheekeyz"
+      },
+      {
+        "file_name": "Dotty Dot Dotz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Cheekeyz",
+        "path": "assets\\8. Cheekeyz"
+      },
+      {
+        "file_name": "Flat Cheekz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Cheekeyz",
+        "path": "assets\\8. Cheekeyz"
+      },
+      {
+        "file_name": "Retro Cheekz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Cheekeyz",
+        "path": "assets\\8. Cheekeyz"
+      },
+      {
+        "file_name": "Starz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Cheekeyz",
+        "path": "assets\\8. Cheekeyz"
+      },
+      {
+        "file_name": "War Paintz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Cheekeyz",
+        "path": "assets\\8. Cheekeyz"
+      }
+    ]
+  },
+  {
+    "folder": "Headz",
+    "rarity": 1.0,
+    "group": "None",
+    "files": [
+      {
+        "file_name": "Citruz Wrinkz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Headz",
+        "path": "assets\\9. Headz"
+      },
+      {
+        "file_name": "Grape Wrinkz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Headz",
+        "path": "assets\\9. Headz"
+      },
+      {
+        "file_name": "Honeydew Melonz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Headz",
+        "path": "assets\\9. Headz"
+      },
+      {
+        "file_name": "Kiwiz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Headz",
+        "path": "assets\\9. Headz"
+      },
+      {
+        "file_name": "Lime Headz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Headz",
+        "path": "assets\\9. Headz"
+      },
+      {
+        "file_name": "Pink Kiwiz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Headz",
+        "path": "assets\\9. Headz"
+      },
+      {
+        "file_name": "Recedez.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Headz",
+        "path": "assets\\9. Headz"
+      },
+      {
+        "file_name": "Square Lemonz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Headz",
+        "path": "assets\\9. Headz"
+      }
+    ]
+  },
+  {
+    "folder": "Kissys",
+    "rarity": 1,
+    "group": "None",
+    "files": [
+      {
+        "file_name": "Awkz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Kissys",
+        "path": "assets\\10. Kissys"
+      },
+      {
+        "file_name": "Big Smize.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Kissys",
+        "path": "assets\\10. Kissys"
+      },
+      {
+        "file_name": "CHEEEEZZZE.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Kissys",
+        "path": "assets\\10. Kissys"
+      },
+      {
+        "file_name": "Cheeky Grinz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Kissys",
+        "path": "assets\\10. Kissys"
+      },
+      {
+        "file_name": "Dudz Grapez Lippy.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Kissys",
+        "path": "assets\\10. Kissys"
+      },
+      {
+        "file_name": "Dudz Strawbezzy Lippy.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Kissys",
+        "path": "assets\\10. Kissys"
+      },
+      {
+        "file_name": "Kissy Kissy Choc Chipz Poutz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Kissys",
+        "path": "assets\\10. Kissys"
+      },
+      {
+        "file_name": "Lippy Ringz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Kissys",
+        "path": "assets\\10. Kissys"
+      },
+      {
+        "file_name": "No Lippy Ringz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Kissys",
+        "path": "assets\\10. Kissys"
+      },
+      {
+        "file_name": "Puff Puffz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Kissys",
+        "path": "assets\\10. Kissys"
+      },
+      {
+        "file_name": "Stripez.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Kissys",
+        "path": "assets\\10. Kissys"
+      },
+      {
+        "file_name": "Vanilla Smize.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Kissys",
+        "path": "assets\\10. Kissys"
+      }
+    ]
+  },
+  {
+    "folder": "Chin Mapping",
+    "rarity": 1.0,
+    "group": "None",
+    "files": [
+      {
+        "file_name": "blank.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Chin Mapping",
+        "path": "assets\\10b. Chin Mapping"
+      },
+      {
+        "file_name": "Freddy Face.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Chin Mapping",
+        "path": "assets\\10b. Chin Mapping"
+      }
+    ]
+  },
+  {
+    "folder": "Smellyz",
+    "rarity": 1.0,
+    "group": "None",
+    "files": [
+      {
+        "file_name": "Broked Nosez.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Smellyz",
+        "path": "assets\\11. Smellyz"
+      },
+      {
+        "file_name": "Clownzy.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Smellyz",
+        "path": "assets\\11. Smellyz"
+      },
+      {
+        "file_name": "Coolz Nose Ringz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Smellyz",
+        "path": "assets\\11. Smellyz"
+      },
+      {
+        "file_name": "Cutie Bopz Ya Nosez.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Smellyz",
+        "path": "assets\\11. Smellyz"
+      },
+      {
+        "file_name": "Eye pokerz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Smellyz",
+        "path": "assets\\11. Smellyz"
+      },
+      {
+        "file_name": "Piggy Pooz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Smellyz",
+        "path": "assets\\11. Smellyz"
+      },
+      {
+        "file_name": "Purple Buggaz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Smellyz",
+        "path": "assets\\11. Smellyz"
+      },
+      {
+        "file_name": "Schnozz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Smellyz",
+        "path": "assets\\11. Smellyz"
+      },
+      {
+        "file_name": "Teeny-Weeny Lemon Nosez.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Smellyz",
+        "path": "assets\\11. Smellyz"
+      }
+    ]
+  },
+  {
+    "folder": "Seeing Ballz",
+    "rarity": 1.0,
+    "group": "None",
+    "files": [
+      {
+        "file_name": "Bagz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Seeing Ballz",
+        "path": "assets\\12. Seeing Ballz"
+      },
+      {
+        "file_name": "Big Pupilz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Seeing Ballz",
+        "path": "assets\\12. Seeing Ballz"
+      },
+      {
+        "file_name": "Blue Froggyz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Seeing Ballz",
+        "path": "assets\\12. Seeing Ballz"
+      },
+      {
+        "file_name": "Cool Dudz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Seeing Ballz",
+        "path": "assets\\12. Seeing Ballz"
+      },
+      {
+        "file_name": "Cube Dudez.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Seeing Ballz",
+        "path": "assets\\12. Seeing Ballz"
+      },
+      {
+        "file_name": "Googly Dudz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Seeing Ballz",
+        "path": "assets\\12. Seeing Ballz"
+      },
+      {
+        "file_name": "Mirror Shadez.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Seeing Ballz",
+        "path": "assets\\12. Seeing Ballz"
+      },
+      {
+        "file_name": "Patchy Eye.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Seeing Ballz",
+        "path": "assets\\12. Seeing Ballz"
+      },
+      {
+        "file_name": "Popz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Seeing Ballz",
+        "path": "assets\\12. Seeing Ballz"
+      },
+      {
+        "file_name": "Squintz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Seeing Ballz",
+        "path": "assets\\12. Seeing Ballz"
+      },
+      {
+        "file_name": "Super Sadz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Seeing Ballz",
+        "path": "assets\\12. Seeing Ballz"
+      },
+      {
+        "file_name": "Trianglez.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Seeing Ballz",
+        "path": "assets\\12. Seeing Ballz"
+      },
+      {
+        "file_name": "Whacky Wonkz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Seeing Ballz",
+        "path": "assets\\12. Seeing Ballz"
+      },
+      {
+        "file_name": "Where Dat Dudz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Seeing Ballz",
+        "path": "assets\\12. Seeing Ballz"
+      },
+      {
+        "file_name": "Who Dat Dudz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Seeing Ballz",
+        "path": "assets\\12. Seeing Ballz"
+      }
+    ]
+  },
+  {
+    "folder": "Browz",
+    "rarity": 1.0,
+    "group": "None",
+    "files": [
+      {
+        "file_name": "Droopz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Browz",
+        "path": "assets\\13. Browz"
+      },
+      {
+        "file_name": "Old Dudz Browz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Browz",
+        "path": "assets\\13. Browz"
+      },
+      {
+        "file_name": "Pluck-a-Dudz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Browz",
+        "path": "assets\\13. Browz"
+      },
+      {
+        "file_name": "Raisez.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Browz",
+        "path": "assets\\13. Browz"
+      },
+      {
+        "file_name": "Thick Brows.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Browz",
+        "path": "assets\\13. Browz"
+      },
+      {
+        "file_name": "Unibrowz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Browz",
+        "path": "assets\\13. Browz"
+      }
+    ]
+  },
+  {
+    "folder": "Hatz & Hairz",
+    "rarity": 1.0,
+    "group": "None",
+    "files": [
+      {
+        "file_name": "Black Dudzfro afb.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "Bubblegumz Dudzfro afm_VERY RARE.png",
+        "rarity": "VERY RARE",
+        "rarity_factor": 0.1,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "Bucketz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "Captain Dudz_SUPER RARE.png",
+        "rarity": "VERY RARE",
+        "rarity_factor": 0.1,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "Capz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "Cheeze Noodlez.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "Cowdudz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "Crownz_LEGENDARY.png",
+        "rarity": "LEGENDARY",
+        "rarity_factor": 0.03,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "Flippy Capz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "Funky Dooz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "High Topz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "Jazzy Dudz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "Liquorice Stickz_RARE.png",
+        "rarity": "RARE",
+        "rarity_factor": 0.2,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "Mo-Dodo Dudz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "Needz-a-Buzz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "Slickz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      },
+      {
+        "file_name": "Stylish Dooz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Hatz & Hairz",
+        "path": "assets\\14. Hatz & Hairz"
+      }
+    ]
+  },
+  {
+    "folder": "Bodz Mapping",
+    "rarity": 1.0,
+    "group": "None",
+    "files": [
+      {
+        "file_name": "blank.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz Mapping",
+        "path": "assets\\15. Bodz Mapping"
+      },
+      {
+        "file_name": "Buff Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz Mapping",
+        "path": "assets\\15. Bodz Mapping"
+      },
+      {
+        "file_name": "Fit Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz Mapping",
+        "path": "assets\\15. Bodz Mapping"
+      },
+      {
+        "file_name": "Kitty Bodz_VERY RARE.png",
+        "rarity": "VERY RARE",
+        "rarity_factor": 0.1,
+        "type": "Bodz Mapping",
+        "path": "assets\\15. Bodz Mapping"
+      },
+      {
+        "file_name": "Moon Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz Mapping",
+        "path": "assets\\15. Bodz Mapping"
+      },
+      {
+        "file_name": "Plain Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz Mapping",
+        "path": "assets\\15. Bodz Mapping"
+      },
+      {
+        "file_name": "Skivvyz Bodz.png",
+        "rarity": "COMMON",
+        "rarity_factor": 0.8,
+        "type": "Bodz Mapping",
+        "path": "assets\\15. Bodz Mapping"
+      }
+    ]
+  }
+]
